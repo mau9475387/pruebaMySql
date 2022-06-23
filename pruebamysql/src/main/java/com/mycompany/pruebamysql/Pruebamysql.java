@@ -18,10 +18,10 @@ import java.util.logging.Logger;
 public class Pruebamysql {
 
     
-    String bd = "bddecaseritos";
-    String url = "jdbc:mysql://localhost:3306/";
-    String user = "root";
-    String password = "decaseritos";
+    String bd = "mxZNQ3qPm7";
+    String url = "jdbc:mysql://remotemysql.com:3306/";
+    String user = "mxZNQ3qPm7";
+    String password = "JZxxjuqW4p";
     String driver = "com.mysql.cj.jdbc.Driver";
     Connection cx;
     
